@@ -38,3 +38,10 @@ padding: 30px;
 .buffer{
     padding: 30px;
 }
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
